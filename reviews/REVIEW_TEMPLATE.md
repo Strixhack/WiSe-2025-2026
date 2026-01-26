@@ -2,7 +2,7 @@
 
 **Reviewed CVE**: EDU-WEBLAB-2026-TXX-XXX  
 **Reviewing Team**: Team XX  
-**Status**: (✅ Confirmed – Reproducible / 🔁 Duplicate / ❌ Invalid)  
+**Status**: (Confirmed – Reproducible / Duplicate / Invalid)  
 **Environment**: WebApp-Lab-X  
 **Review Date**: YYYY-MM-DD  
 
